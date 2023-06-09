@@ -12,7 +12,6 @@ This is a project I did for my Master's Advanced Business Intelligence Class. It
 
 Through the EDA stage, we discovered insights that could be useful for business decisions and presented them to the class.
 
-![Example]([https://imgur.com/SUelBoz](https://imgur.com/gallery/LIhGDYP) "Example of Viz")
 
 # [Project 2: Tech Job Salary Prediction using R](https://github.com/lolorangey/TechJobSalaryPred)
 
