@@ -12,7 +12,8 @@ This is a project I did for my Master's Advanced Business Intelligence Class. It
 
 Through the EDA stage, we discovered insights that could be useful for business decisions and presented them to the class.
 
-![Alt text](/Images/TechJob1.png ?raw=true "Optional Title")
+## Example of Visualisation
+![](/Images/TechJob1.png)
 
 
 # [Project 2: Tech Job Salary Prediction using R](https://github.com/lolorangey/TechJobSalaryPred)
