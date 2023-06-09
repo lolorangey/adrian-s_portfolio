@@ -13,11 +13,19 @@ This is a project I did for my Master's Advanced Business Intelligence Class. It
 Through the EDA stage, we discovered insights that could be useful for business decisions and presented them to the class.
 
 ## Example of Visualisation
-![](/Images/TechJob1.png)
+![](/Images/Tableau.png)
 
 
 # [Project 2: Tech Job Salary Prediction using R](https://github.com/lolorangey/TechJobSalaryPred)
 
 This project is part of my Business Statistics Using R class in my Masters. This is a group project and we aimed to predict the Salary of a Tech Job/Position with the features from the [dataset](https://www.kaggle.com/datasets/thedevastator/jobs-dataset-from-glassdoor?select=salary_data_cleaned.csv). 
 
-* We conducted a regression analysis using SVM, Multiple Linear Regression and WLS Regression
+* Carried out Data Cleaning and Preprocessing
+* Exploratory Data Analysis
+* Feature Selection
+* Conducted a regression analysis using SVM, Multiple Linear Regression and WLS Regression
+* Tested the assumptions of regression
+
+
+## Example of Regression Line with MLR
+![](/Images/TechJob1.png)
