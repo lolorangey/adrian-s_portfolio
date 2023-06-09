@@ -32,7 +32,7 @@ This project is part of my Business Statistics Using R class in my Masters. This
 
 # [Project 3: Car Emissions EPA Target Classification](https://github.com/lolorangey/CarEmissionClassification)
 
-This project aims to predict whether a car with its given specifications and features would fit the EPA Target of 40 MPG by 2026. It was originally done for my Machine Learning using RapidMiner class for my Master's. It is then adapted into python and used H2O's AutoML library for classificaion. This notebook skips through the feature selection process that was used in our RapidMiner process as well as any analysis and discussions. You can refer to this [document](https://github.com/lolorangey/adrian-s_portfolio/blob/main/Images/Car%20Emission%20Machine%20Learning%20Report.pdf).
+This project aims to predict whether a car with its given specifications and features would fit the EPA Target of 40 MPG by 2026. It was originally done for my Machine Learning using RapidMiner class for my Master's. It is then adapted into python and used H2O's AutoML library for classification. This notebook skips through the feature selection process that was used in our RapidMiner process as well as any analysis and discussions. You can refer to this [document](https://github.com/lolorangey/adrian-s_portfolio/blob/main/Images/Car%20Emission%20Machine%20Learning%20Report.pdf).
 
 * Data Cleaning and PreProcessing
 * Feature Engineering
